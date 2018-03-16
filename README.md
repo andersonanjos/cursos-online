@@ -11,3 +11,4 @@
 Authores: 
 * David Lucas
 * Jose Anderson
+* Bianca Lima
