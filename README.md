@@ -5,7 +5,6 @@
 
 [Link do projeto no ar...](https://gtdavid.github.io/cursos-online "Cursos Onlines")
 ![Header Background](http://katiaglaisa.com.br/file/uploads/2014/06/275526_Papel-de-Parede-Gato-Fotografo_1920x1200-940x587.jpg "Imagem cabeçalho")
-=======
 
 
 Authores: 
