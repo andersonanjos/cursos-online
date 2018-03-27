@@ -9,10 +9,13 @@
 
 Authores: 
 
+
 * Wellyson
+* Lucas 
 * David Lucas
 * Jose Anderson
 * Bianca Lima
+* Paulo Victor
 * Otavio
 * Leo
 * Robson
