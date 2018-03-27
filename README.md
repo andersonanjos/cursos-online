@@ -8,5 +8,13 @@
 
 
 Authores: 
+
 * Wellyson
+* David Lucas
+* Jose Anderson
+* Bianca Lima
+* Otavio
+* Leo
+* Robson
+* Renato Lima
 
