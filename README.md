@@ -8,14 +8,13 @@
 
 
 Authores: 
+
+* Lucas 
 * David Lucas
 * Jose Anderson
 * Bianca Lima
-<<<<<<< HEAD
 * Paulo Victor
-=======
 * Otavio
 * Leo
 * Robson
 * Renato Lima
->>>>>>> 7acadd5448f8c9d1326e4ac50be09fdc0b7dc9f8
