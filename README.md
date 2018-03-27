@@ -14,4 +14,4 @@ Authores:
 * Otavio
 * Leo
 * Robson
-* Manoel
+* Renato Lima
