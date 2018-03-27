@@ -1,4 +1,4 @@
-# Projeto Cursos onlines
+﻿# Projeto Cursos onlines
 
 *Este projeto de plataforma de cursos onlines está sendo desenvolvido com o propósito de atender as demandas de trabalhos da faculdade, trabalho esté dirigido pelo professor Breno, cujo objetivo será o ensino e apredizagem do aluno*
 
@@ -11,3 +11,4 @@ Authores:
 * David Lucas
 * Jose Anderson
 * Bianca Lima
+* Paulo Victor
