@@ -66,7 +66,7 @@
             <!--First row-->
             <div class="row wow fadeIn" data-wow-delay="0.4s">
                 <div class="col-lg-12">
-                    <h2 class="h2-responsive font-bold mb-5">Cursos em destaques</h2>
+                    <h2 class="h2-responsive font-bold mb-5">Palestras em destaques</h2>
 
                     <!--Carousel Wrapper-->
                     <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
@@ -78,7 +78,8 @@
                         </ol>
                         <!--/.Indicators-->
                         <!--Slides-->
-                        <div class="carousel-inner" role="listbox">
+                        <div class="carousel-inner" role="listbox">   
+                            
                             <!--First slide-->
                             <div class="carousel-item">
                                 <img src="vendor/template/img/img-01.png" alt="First slide" class="img-fluid rounded" height"328px">
@@ -89,6 +90,9 @@
                                     <br>
                                 </div>
                             </div>
+
+
+
                             <!--/First slide-->
                             <!--Second slide-->
                             <div class="carousel-item active">
@@ -112,6 +116,10 @@
                                 </div>
                             </div>
                             <!--/Third slide-->
+
+
+
+
                         </div>
                         <!--/.Slides-->
                         <!--Controls-->
